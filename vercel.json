@@ -1,0 +1,1 @@
+{\n  \"buildCommand\": \"npm run build\",\n  \"outputDirectory\": \".next\",\n  \"env\": {\n    \"NEXT_PUBLIC_APP_NAME\": \"mObywatel Web\"\n  },\n  \"rewrites\": [\n    {\n      \"source\": \"/(.*)\",\n      \"destination\": \"/$1\"\n    }\n  ]\n}\n
